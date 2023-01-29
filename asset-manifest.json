@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Game_over-React/static/css/main.a708152f.css",
-    "main.js": "/Game_over-React/static/js/main.d0ff06d1.js",
+    "main.css": "/Game_over-React/static/css/main.c1943c77.css",
+    "main.js": "/Game_over-React/static/js/main.02547801.js",
     "static/js/787.419af693.chunk.js": "/Game_over-React/static/js/787.419af693.chunk.js",
     "static/media/profile_img.jpg": "/Game_over-React/static/media/profile_img.41000bb7bc959ff46da9.jpg",
     "static/media/fa-solid-900.ttf": "/Game_over-React/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
@@ -18,12 +18,12 @@
     "static/media/fa-v4compatibility.ttf": "/Game_over-React/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
     "static/media/fa-v4compatibility.woff2": "/Game_over-React/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
     "index.html": "/Game_over-React/index.html",
-    "main.a708152f.css.map": "/Game_over-React/static/css/main.a708152f.css.map",
-    "main.d0ff06d1.js.map": "/Game_over-React/static/js/main.d0ff06d1.js.map",
+    "main.c1943c77.css.map": "/Game_over-React/static/css/main.c1943c77.css.map",
+    "main.02547801.js.map": "/Game_over-React/static/js/main.02547801.js.map",
     "787.419af693.chunk.js.map": "/Game_over-React/static/js/787.419af693.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a708152f.css",
-    "static/js/main.d0ff06d1.js"
+    "static/css/main.c1943c77.css",
+    "static/js/main.02547801.js"
   ]
 }
